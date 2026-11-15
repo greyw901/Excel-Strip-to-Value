@@ -1,5 +1,5 @@
 ================================================================
-  Excel Strip to Value v1.1_20261113 - Instruction
+  Excel Strip to Value v1.2_20261115 - Instruction
 ================================================================
 
 ----------------------------------------------------------------
@@ -132,7 +132,7 @@ If something fails on one of the files, the window also shows a
         [Enter] to close...
         [0] Save error log & close
 
-        Ans:
+        Action:
 
 Type 0 and press Enter instead of just Enter to save a text log of what
 went wrong ("error log_YYYYMMDD.txt"), then send that log file along with
@@ -295,6 +295,6 @@ Packaging (clean venv, so the exe only bundles what the script needs):
 ----------------------------------------------------------------
 
 Author:       Yeoh Huey Sun
-Version:      v1.1_20261113
-Last updated: 2026-11-13
+Version:      v1.2_20261115
+Last updated: 2026-11-15
 ================================================================

@@ -28,7 +28,7 @@ os.chdir(SCRIPT_DIR)
 
 INPUT_FOLDER = SCRIPT_DIR
 OUTPUT_FOLDER = SCRIPT_DIR
-VERSION = "v1.1_20261113"  # not shown on screen; goes into the exe version file
+VERSION = "v1.2_20261115"  # not shown on screen; goes into the exe version file
 OUTPUT_SUFFIX = "_clean"
 # Own output, incl. collision copies (_clean_1) and older "_Clean" runs:
 # never offered as input on a re-run.
@@ -461,7 +461,7 @@ def main() -> None:
     print("[Enter] to close...")
     print("[0] Save error log & close")
     print()
-    choice = input("Ans: ")
+    choice = input("Action: ")
     if choice.strip() == "0":
         write_error_log(failures)
 

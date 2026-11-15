@@ -67,7 +67,7 @@ Building from a clean virtual environment (rather than a Python install with lot
 MIT — see [LICENSE](LICENSE).
 
 ---
-Version: v1.1_20261113
+Version: v1.2_20261115
 
 Author: Yeoh Huey Sun
 Email: greyw901@gmail.com
